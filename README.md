@@ -15,7 +15,10 @@ You can also find my articles on my website at [lebenito.net](https://blogs.lebe
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mcskiller&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Lebenito's GitHub Stats" />
 </a>
 
-![](https://komarev.com/ghpvc/?username=Mcskiller&style=flat-square)
+## 📺 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!-- links to social media icons -->
 
