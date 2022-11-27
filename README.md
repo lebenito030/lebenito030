@@ -21,12 +21,12 @@ You can also find my articles on my website at [lebenito.net](https://blogs.lebe
 <!--START_SECTION:waka-->
 
 ```text
-Python        3 hrs 52 mins   ████████████▓░░░░░░░░░░░░   50.29 %
-C++           1 hr 44 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.64 %
-JSON          37 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 %
-Text          25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
-YAML          21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
-Markdown      20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
+Python        3 hrs 39 mins   ████████████▒░░░░░░░░░░░░   48.85 %
+C++           1 hr 44 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.30 %
+JSON          37 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 %
+Text          25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 %
+YAML          21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
+Markdown      20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
 ```
 
 <!--END_SECTION:waka-->
