@@ -10,10 +10,10 @@ You can also find my articles on my website at [lebenito.net](https://blogs.lebe
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Mcskiller/Mcskiller">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mcskiller&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mcskiller&layout=compact&langs_count=10" />
 </a>
 <a href="https://github.com/Mcskiller/Mcskiller">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mcskiller&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Lebenito's GitHub Stats" />
+  <img align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=Mcskiller&show_icons=true&theme=graywhite" alt="Lebenito's GitHub Stats" />
 </a>
 
 ## 📺 Weekly Development Breakdown
