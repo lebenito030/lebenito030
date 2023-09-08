@@ -21,8 +21,8 @@ You can also find my articles on my website at [lebenito.net](https://blogs.lebe
 <!--START_SECTION:waka-->
 
 ```txt
-TeX      7 hrs 49 mins   ████████████████████████▓   98.70 %
-BibTeX   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
+TeX      7 hrs 13 mins   ████████████████████████▒   97.34 %
+BibTeX   11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
 ```
 
 <!--END_SECTION:waka-->
