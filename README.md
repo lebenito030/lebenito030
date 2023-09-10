@@ -21,10 +21,10 @@ You can also find my articles on my website at [lebenito.net](https://blogs.lebe
 <!--START_SECTION:waka-->
 
 ```txt
-TeX        6 hrs 24 mins   ████████████████████████▒   96.95 %
-BibTeX     11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-Assembly   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+TeX        4 hrs 19 mins   ████████████████████████░   95.54 %
+BibTeX     11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Assembly   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
