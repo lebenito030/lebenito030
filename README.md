@@ -21,9 +21,8 @@ You can also find my articles on my website at [lebenito.net](https://blogs.lebe
 <!--START_SECTION:waka-->
 
 ```txt
-C      1 hr 7 mins     ██████████████████████▓░░   90.85 %
-JSON   4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
-C++    2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
+C      49 mins         ███████████████████████░░   92.31 %
+JSON   4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
 ```
 
 <!--END_SECTION:waka-->
