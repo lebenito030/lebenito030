@@ -21,8 +21,8 @@ You can also find my articles on my website at [lebenito.net](https://blogs.lebe
 <!--START_SECTION:waka-->
 
 ```txt
-Assembly   5 mins          ████████████████▓░░░░░░░░   66.24 %
-Makefile   2 mins          ████████▒░░░░░░░░░░░░░░░░   33.76 %
+Makefile   2 mins          █████████████░░░░░░░░░░░░   52.28 %
+Assembly   2 mins          ████████████░░░░░░░░░░░░░   47.72 %
 ```
 
 <!--END_SECTION:waka-->
