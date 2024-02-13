@@ -21,11 +21,10 @@ You can also find my articles on my website at [lebenito.net](https://blogs.lebe
 <!--START_SECTION:waka-->
 
 ```txt
-Bash          3 hrs 30 mins   █████████▓░░░░░░░░░░░░░░░   39.26 %
-Devicetree    2 hrs 41 mins   ███████▓░░░░░░░░░░░░░░░░░   30.04 %
-C             1 hr 28 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.42 %
-Other         1 hr 13 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.70 %
-Markdown      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+Bash         2 hrs 32 mins   █████████████▓░░░░░░░░░░░   54.33 %
+Other        1 hr 10 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.16 %
+Devicetree   57 mins         █████░░░░░░░░░░░░░░░░░░░░   20.45 %
+Makefile     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
