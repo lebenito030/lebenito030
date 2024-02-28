@@ -21,11 +21,11 @@ You can also find my articles on my website at [lebenito.net](https://blogs.lebe
 <!--START_SECTION:waka-->
 
 ```txt
-C            5 hrs 25 mins   ██████████████░░░░░░░░░░░   56.53 %
-Markdown     2 hrs 42 mins   ███████░░░░░░░░░░░░░░░░░░   28.28 %
-Other        30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
-Bash         29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 %
-Python       10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+C            9 hrs 28 mins   ████████████████░░░░░░░░░   63.76 %
+Markdown     2 hrs 43 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.37 %
+Other        56 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
+Bash         53 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
+Makefile     23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
 ```
 
 <!--END_SECTION:waka-->
