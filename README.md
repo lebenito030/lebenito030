@@ -21,10 +21,10 @@ You can also find my articles on my website at [lebenito.net](https://blogs.lebe
 <!--START_SECTION:waka-->
 
 ```txt
-Python       30 mins         ███████████████████████▓░   94.76 %
-TeX          0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
-CSV          0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
-SSH Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+Python       42 mins         ████████████████████████░   96.14 %
+TeX          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
+CSV          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+SSH Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
 ```
 
 <!--END_SECTION:waka-->
