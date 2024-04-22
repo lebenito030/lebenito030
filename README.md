@@ -21,7 +21,11 @@ You can also find my articles on my website at [lebenito.net](https://blogs.lebe
 <!--START_SECTION:waka-->
 
 ```txt
-SSH Config   0 secs          █████████████████████████   100.00 %
+Rust         15 mins         ████████████████████████▓   98.52 %
+SSH Config   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+TOML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
