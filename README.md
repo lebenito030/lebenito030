@@ -21,11 +21,11 @@ You can also find my articles on my website at [lebenito.net](https://blogs.lebe
 <!--START_SECTION:waka-->
 
 ```txt
-Rust         6 hrs 41 mins   █████████████████████▓░░░   86.01 %
-CMake        1 hr            ███▒░░░░░░░░░░░░░░░░░░░░░   12.96 %
-Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
-C++          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Rust         4 hrs 46 mins   ███████████████▒░░░░░░░░░   61.40 %
+CMake        1 hr            ███▒░░░░░░░░░░░░░░░░░░░░░   12.97 %
+Bash         41 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.81 %
+Markdown     36 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 %
+Other        20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
 ```
 
 <!--END_SECTION:waka-->
