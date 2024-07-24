@@ -1,7 +1,7 @@
 # Hello there, this is Lebenito. 👋 
 
 My name is Lebenito, I'm a front-end developer/CV Researcher/Game Developer. You can find me on [![Twitter][1.2]][1].  
-I'm working on research about NeRF. If you are also interested in it, you can make a [discussion](https://github.com/Mcskiller/Mcskiller/discussions) in my Profile repo.
+I'm working on research about NeRF. If you are also interested in it, you can make a [discussion](https://github.com/lebenito030/lebenito030/discussions) in my Profile repo.
 
 ## &#x270d; Blog & Writing
 
@@ -9,11 +9,11 @@ You can also find my articles on my website at [lebenito.net](https://blogs.lebe
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/Mcskiller/Mcskiller">
-  <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mcskiller&layout=compact&langs_count=10" />
+<a href="https://github.com/lebenito030/lebenito030">
+  <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lebenito030&layout=compact&langs_count=10" />
 </a>
-<a href="https://github.com/Mcskiller/Mcskiller">
-  <img align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=Mcskiller&show_icons=true&theme=graywhite" alt="Lebenito's GitHub Stats" />
+<a href="https://github.com/lebenito030/lebenito030">
+  <img align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=lebenito030&show_icons=true&theme=graywhite" alt="Lebenito's GitHub Stats" />
 </a>
 
 ## 📺 Weekly Development Breakdown
@@ -46,7 +46,7 @@ Bash         43 mins         ██░░░░░░░░░░░░░░░
 <!-- links to your social media accounts -->
 
 [1]: https://twitter.com/Lebenito030
-[2]: https://github.com/Mcskiller
+[2]: https://github.com/lebenito030
 
 
 <!-- Resources -->
