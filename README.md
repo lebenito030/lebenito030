@@ -1,6 +1,6 @@
 # Hello there, this is Lebenito. 👋 
 
-My name is Lebenito, I'm a front-end developer/CV Researcher/Game Developer. You can find me on [![Twitter][1.2]][1].  
+My name is Lebenito, I'm a CV Researcher/Game Developer. You can find me on [![Twitter][1.2]][1].  
 I'm working on research about NeRF. If you are also interested in it, you can make a [discussion](https://github.com/lebenito030/lebenito030/discussions) in my Profile repo.
 
 ## &#x270d; Blog & Writing
