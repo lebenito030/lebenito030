@@ -21,11 +21,11 @@ You can also find my articles on my website at [lebenito.net](https://blogs.lebe
 <!--START_SECTION:waka-->
 
 ```txt
-Rust         2 hrs 42 mins   ███████░░░░░░░░░░░░░░░░░░   28.25 %
-Markdown     1 hr 16 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.25 %
-TypeScript   1 hr 12 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.61 %
-Makefile     1 hr 8 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.84 %
-CMake        1 hr            ██▓░░░░░░░░░░░░░░░░░░░░░░   10.51 %
+Rust         2 hrs 30 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.82 %
+Markdown     1 hr 21 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.97 %
+CMake        1 hr 13 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.63 %
+TypeScript   1 hr 12 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.50 %
+Makefile     1 hr 8 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.74 %
 ```
 
 <!--END_SECTION:waka-->
