@@ -21,9 +21,9 @@ You can also find my articles on my website at [lebenito.net](https://blogs.lebe
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   3 hrs 13 mins   ██████████████████████▒░░   89.61 %
-CMake        12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 %
-Markdown     4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
+TypeScript   3 hrs 13 mins   ██████████████████████▒░░   89.80 %
+CMake        12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 %
+Markdown     4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
 SSH Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
 JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
 ```
