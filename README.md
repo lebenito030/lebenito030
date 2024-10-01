@@ -21,11 +21,11 @@ You can also find my articles on my website at [lebenito.net](https://blogs.lebe
 <!--START_SECTION:waka-->
 
 ```txt
-Other        1 hr            ████████░░░░░░░░░░░░░░░░░   31.96 %
-Assembly     1 hr            ████████░░░░░░░░░░░░░░░░░   31.91 %
-Markdown     26 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.27 %
-Rust         22 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.77 %
-C#           9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
+Rust         1 hr 13 mins    ████████░░░░░░░░░░░░░░░░░   32.25 %
+Assembly     1 hr            ██████▓░░░░░░░░░░░░░░░░░░   26.62 %
+Other        50 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.91 %
+Markdown     26 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.74 %
+TOML         7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
 ```
 
 <!--END_SECTION:waka-->
