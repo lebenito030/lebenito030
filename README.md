@@ -21,10 +21,9 @@ You can also find my articles on my website at [lebenito.net](https://blogs.lebe
 <!--START_SECTION:waka-->
 
 ```txt
-Rust       52 mins         █████████████████████▒░░░   85.60 %
-TOML       7 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.61 %
-Assembly   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Rust       1 min           █████████████████████░░░░   84.64 %
+Assembly   0 secs          ███▓░░░░░░░░░░░░░░░░░░░░░   14.50 %
+Other      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
 ```
 
 <!--END_SECTION:waka-->
