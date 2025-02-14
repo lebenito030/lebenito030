@@ -21,9 +21,9 @@ You can also find my articles on my website at [lebenito.net](https://blogs.lebe
 <!--START_SECTION:waka-->
 
 ```txt
-Rust                       4 hrs 17 mins   ██████████████████████░░░   87.64 %
-Nginx configuration file   20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.09 %
-Other                      15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
+Rust                       3 hrs 40 mins   █████████████████████▒░░░   85.90 %
+Nginx configuration file   20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 %
+Other                      15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
 ```
 
 <!--END_SECTION:waka-->
