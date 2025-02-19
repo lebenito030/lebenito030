@@ -21,8 +21,9 @@ You can also find my articles on my website at [lebenito.net](https://blogs.lebe
 <!--START_SECTION:waka-->
 
 ```txt
-Nginx configuration file   20 mins         ██████████████▒░░░░░░░░░░   57.50 %
-Other                      15 mins         ██████████▓░░░░░░░░░░░░░░   42.50 %
+XML                        49 mins         █████████████████░░░░░░░░   67.74 %
+Nginx configuration file   20 mins         ███████░░░░░░░░░░░░░░░░░░   28.62 %
+Other                      2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
 ```
 
 <!--END_SECTION:waka-->
