@@ -21,11 +21,11 @@ You can also find my articles on my website at [lebenito.net](https://blogs.lebe
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     2 hrs 31 mins   ████████████▓░░░░░░░░░░░░   51.20 %
-TypeScript   1 hr 16 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.91 %
-Bash         24 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 %
-Python       22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 %
-YAML         13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
+TypeScript   2 hrs 40 mins   ██████████▒░░░░░░░░░░░░░░   41.82 %
+Markdown     2 hrs 31 mins   ██████████░░░░░░░░░░░░░░░   39.51 %
+Bash         25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 %
+Python       22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.96 %
+YAML         13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
 ```
 
 <!--END_SECTION:waka-->
