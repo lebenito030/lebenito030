@@ -21,11 +21,11 @@ You can also find my articles on my website at [lebenito.net](https://blogs.lebe
 <!--START_SECTION:waka-->
 
 ```txt
-C#            1 hr 18 mins    ███████████████░░░░░░░░░░   59.38 %
-C++           20 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.62 %
-Objective-C   12 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.75 %
-Text          9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 %
-C/C           9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.88 %
+C#            1 hr 18 mins    ██████████░░░░░░░░░░░░░░░   40.22 %
+Objective-C   41 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.47 %
+C             37 mins         █████░░░░░░░░░░░░░░░░░░░░   19.53 %
+C++           20 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.60 %
+C/C           12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.46 %
 ```
 
 <!--END_SECTION:waka-->
