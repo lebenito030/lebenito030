@@ -21,11 +21,11 @@ You can also find my articles on my website at [lebenito.net](https://blogs.lebe
 <!--START_SECTION:waka-->
 
 ```txt
-C#               13 mins         ███████████████████▓░░░░░   78.43 %
-GitIgnore file   3 mins          █████░░░░░░░░░░░░░░░░░░░░   19.34 %
-C++              0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
-uproject         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
-Git Config       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Other            14 mins         █████████▓░░░░░░░░░░░░░░░   38.66 %
+C#               13 mins         █████████░░░░░░░░░░░░░░░░   35.67 %
+HTML             5 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.09 %
+GitIgnore file   3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.80 %
+C/C              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
 ```
 
 <!--END_SECTION:waka-->
