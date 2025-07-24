@@ -21,11 +21,9 @@ You can also find my articles on my website at [lebenito.net](https://blogs.lebe
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     3 hrs 28 mins   ██████████████████████▓░░   90.83 %
-Git Config   10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
-Bash         9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
-Docker       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Markdown   2 hrs 13 mins   ████████████████████████▓   98.42 %
+C          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 ```
 
 <!--END_SECTION:waka-->
