@@ -21,10 +21,9 @@ You can also find my articles on my website at [lebenito.net](https://blogs.lebe
 <!--START_SECTION:waka-->
 
 ```txt
-C++              10 mins         █████████▒░░░░░░░░░░░░░░░   37.40 %
-GitIgnore file   9 mins          █████████░░░░░░░░░░░░░░░░   36.31 %
-JSON             4 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.77 %
-Other            2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.52 %
+GitIgnore file   9 mins          ██████████████▓░░░░░░░░░░   58.01 %
+JSON             4 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.19 %
+Other            2 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.80 %
 ```
 
 <!--END_SECTION:waka-->
