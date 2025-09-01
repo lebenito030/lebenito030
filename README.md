@@ -21,11 +21,11 @@ You can also find my articles on my website at [lebenito.net](https://blogs.lebe
 <!--START_SECTION:waka-->
 
 ```txt
-Go                31 mins         ███████████████▒░░░░░░░░░   60.77 %
-Protocol Buffer   9 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.12 %
-Markdown          7 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.35 %
-Makefile          2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
-Text              0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+Go                1 hr 15 mins    █████████████▓░░░░░░░░░░░   54.86 %
+C++               28 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.19 %
+Protocol Buffer   13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.19 %
+Markdown          7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 %
+GitIgnore file    5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
 ```
 
 <!--END_SECTION:waka-->
