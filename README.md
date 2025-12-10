@@ -10,10 +10,10 @@ You can also find my articles on my website at [lebenito.net](https://blogs.lebe
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/lebenito030/lebenito030">
-  <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lebenito030&layout=compact&langs_count=10" />
+  <img align="center" height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lebenito030&layout=compact&langs_count=10" />
 </a>
 <a href="https://github.com/lebenito030/lebenito030">
-  <img align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=lebenito030&show_icons=true&theme=graywhite" alt="Lebenito's GitHub Stats" />
+  <img align="center" height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lebenito030&show_icons=true&theme=graywhite" alt="Lebenito's GitHub Stats" />
 </a>
 
 ## 📺 Weekly Development Breakdown
