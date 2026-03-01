@@ -21,11 +21,11 @@ You can also find my articles on my website at [lebenito.net](https://blogs.lebe
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     1 hr 22 mins          ████████████████▓░░░░░░░░   66.15 %
-JSON         21 mins               ████▒░░░░░░░░░░░░░░░░░░░░   16.86 %
-Python       13 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.63 %
-Other        7 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 %
-SSH Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+Markdown     1 hr 22 mins          ██████████████▓░░░░░░░░░░   58.95 %
+JSON         21 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   15.02 %
+Bash         14 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.96 %
+Other        11 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 %
+Python       10 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 %
 ```
 
 <!--END_SECTION:waka-->
